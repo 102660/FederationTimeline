@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="federationtimeline.pages.dev" resolutions="1x" timestamp="1677209862627">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="federationtimeline.pages.dev" resolutions="1x" timestamp="1677209983159">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4094918356" ref="index"/>
@@ -11,5 +11,5 @@
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
-  <file name="index.html" crc="4290062606" seo="true" mt="1677209829286" redirect="true"/>
+  <file name="index.html" crc="3792850182" seo="true" mt="1677209976034" redirect="true"/>
 </manifest>
